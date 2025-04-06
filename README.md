@@ -116,8 +116,10 @@ src/
 └── Main.java
 ```
 
----
+📄 Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
 
+---
 ## Geliştiriciler
 
 - [Oğuz Kaan Yalçın](https://github.com/oguzkaanyalcin)
