@@ -115,4 +115,8 @@ src/
 │   └── HospitalUI.java
 └── Main.java
 ```
+## Geliştiriciler
+
+- [Oğuz Kaan Yalçın](https://github.com/oguzkaanyalcin)
+- [Bora Kitirci](https://github.com/bboraki)
 
