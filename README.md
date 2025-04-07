@@ -123,5 +123,5 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dos
 ## Geliştiriciler
 
 - [Oğuz Kaan Yalçın](https://github.com/oguzkaanyalcin)
-- [Bora Kitirci](https://github.com/bboraki)
+- [Bora Kitirci](https://github.com/borakitirci)
 
